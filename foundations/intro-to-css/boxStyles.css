@@ -1,0 +1,22 @@
+.learn {
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+}
+
+.one {
+    background-color: red;
+    padding: 20px;
+    border: 20px solid purple;
+    margin: 100px;
+    /* height: 20px;
+    width: 20px; */
+}
+
+.two {
+    background: blue;
+    margin: 110px;
+    border: 20px green solid;
+    /* height: 30px;
+    width: 30px; */
+}
